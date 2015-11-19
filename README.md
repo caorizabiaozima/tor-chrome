@@ -4,3 +4,5 @@ This is a Tor-Chrome .It is using obfs4 now and proxy Tor.This is my first peoje
 网盘1：http://filespace.com/tnk727vna3fm  
 网盘2：http://www.gigasize.com/get/1px0b1c9wvc 
 选免费下载
+本工具仅作匿名、娱乐使用，如有人使用本工具进行非法活动，作者概不负责。
+欢迎大家到issue留言，也欢迎懂chrome扩展的朋友加盟。
